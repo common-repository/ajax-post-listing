@@ -1,0 +1,19 @@
+.ajaxul {
+	float:left;
+}
+
+ul.ajaxul li {
+	font-weight:bold;
+	border-bottom:1px solid #DDDDDD;
+	margin-bottom:0;
+}
+
+ul.ajaxul li:hover
+{
+color:#FFF;
+background-color: #CCC;
+}
+
+.prev_next {
+	margin:0 0 0 20px;
+}
